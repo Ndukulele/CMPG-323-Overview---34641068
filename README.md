@@ -1,10 +1,10 @@
 # CMPG-323-Overview---34641068
 
 List of repositories that will be made for each project:
-1. Project 2 - "CMPG-323-Project-2-34641068"
-2. Project 3 - "CMPG-323-Project-3-34641068"
-3. Project 4 - "CMPG-323-Project-4-34641068"
-4. Project 5 - "CMPG-323-Project-5-34641068"
+1. Project 2 - ["CMPG-323-Project-2-34641068](https://classroom.github.com/a/290U_JNB)
+2. Project 3 - ["CMPG-323-Project-3-34641068"](https://classroom.github.com/a/QXrtxkgT)
+3. Project 4 - ["CMPG-323-Project-4-34641068"](https://classroom.github.com/a/RIlr5Co8)
+4. Project 5 - ["CMPG-323-Project-5-34641068"](https://classroom.github.com/a/Hd9PNu-x)
 
 ### Branch
 
